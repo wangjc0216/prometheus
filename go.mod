@@ -1,4 +1,4 @@
-module github.com/prometheus/prometheus
+module github.com/wangjc0216/prometheus
 
 go 1.14
 
